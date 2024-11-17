@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b57076f0.css",
-    "main.js": "/static/js/main.6f3dda6c.js",
+    "main.js": "/static/js/main.7d94c3de.js",
     "static/css/487.8377c183.chunk.css": "/static/css/487.8377c183.chunk.css",
     "static/js/487.38245645.chunk.js": "/static/js/487.38245645.chunk.js",
     "static/css/990.8251e967.chunk.css": "/static/css/990.8251e967.chunk.css",
@@ -15,6 +15,7 @@
     "static/media/ProductSans-Regular.ttf": "/static/media/ProductSans-Regular.2765c69613690b1b9c03.ttf",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/sql.png": "/static/media/sql.701ce6f97c36fb3b26fb.png",
     "static/media/IEEELogo.jpg": "/static/media/IEEELogo.bda795497a01ab5d466b.jpg",
     "static/media/yagi.png": "/static/media/yagi.1e3ca1a01e63193f6de8.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
@@ -24,7 +25,7 @@
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.b57076f0.css.map": "/static/css/main.b57076f0.css.map",
-    "main.6f3dda6c.js.map": "/static/js/main.6f3dda6c.js.map",
+    "main.7d94c3de.js.map": "/static/js/main.7d94c3de.js.map",
     "487.8377c183.chunk.css.map": "/static/css/487.8377c183.chunk.css.map",
     "487.38245645.chunk.js.map": "/static/js/487.38245645.chunk.js.map",
     "990.8251e967.chunk.css.map": "/static/css/990.8251e967.chunk.css.map",
@@ -32,6 +33,6 @@
   },
   "entrypoints": [
     "static/css/main.b57076f0.css",
-    "static/js/main.6f3dda6c.js"
+    "static/js/main.7d94c3de.js"
   ]
 }
